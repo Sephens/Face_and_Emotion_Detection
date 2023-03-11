@@ -45,4 +45,6 @@ To train your own emotion detection model, Refer to the notebook /facial_emotion
 Run `pip install -r requirements.txt` <br/>
 ` python Emotion_Detection.py`
 
+Good Luck!!!
+
 
